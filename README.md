@@ -12,7 +12,7 @@ A modern, responsive user interface component designed to effectively present a 
 
 ## Live Demo
 
-[https:/thisislefa.gtihub.io/web-feature-02]
+https:/thisislefa.gtihub.io/web-feature-02
 
 ## Technologies Used
 
@@ -37,3 +37,4 @@ Customize the content, colors, and SVG icons by editing the HTML and CSS directl
 ## License
 
 This project is licensed under the MIT License.
+
