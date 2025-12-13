@@ -46,7 +46,7 @@ defcon-wsa-content-block.defcon-wsa-is-visible {
 defcon-wsa-subheading {
     display: block;
     font-size: 14px;
-    font-weight: 700;
+    font-weight: 600;
     color: #000000;
     margin-bottom: 8px;
     letter-spacing: 1px;
@@ -56,8 +56,8 @@ defcon-wsa-subheading {
 defcon-wsa-heading {
     display: block;
     font-size: 56px;
-    font-weight: 700;
-    letter-spacing: -0.03em;
+    font-weight: 600;
+    letter-spacing: -0.04em;
     color: #000000;
     line-height: 1.1;
     margin-top: 0;
@@ -68,6 +68,7 @@ defcon-wsa-heading {
 defcon-wsa-paragraph {
     display: block;
     font-size: 16px;
+    font-weight: 500;
     color: #333;
     line-height: 1.6;
     max-width: 400px;
@@ -83,14 +84,11 @@ defcon-wsa-cards-grid {
 /* --- Individual Feature Card --- */
 defcon-wsa-card {
     background-color: #ffffff;
-    border: 1px solid #ececec;
     border-radius: 20px;
     padding: 30px;
     display: block;
     opacity: 1;
     transform: translateY(20px);
-                box-shadow: 0 10px 25px -5px rgba(0, 0, 0, 0.04), 0 8px 10px -6px rgba(0, 0, 0, 0.04);
-
     transition: opacity 0.8s cubic-bezier(0.645, 0.045, 0.355, 1), transform 0.8s cubic-bezier(0.645, 0.045, 0.355, 1);
 }
 
@@ -112,7 +110,7 @@ defcon-wsa-icon-wrapper {
     justify-content: center;
     width: 60px;
     height: 60px;
-    background-color: #f4f4f4d5;
+   
     border-radius: 50%;
     margin-bottom: 20px;
 }
@@ -126,8 +124,9 @@ defcon-wsa-icon {
 /* --- Card Title --- */
 defcon-wsa-card-title {
     display: block;
-    font-size: 20px;
-    font-weight: 700;
+    font-size: 25px;
+    font-weight: 600;
+    letter-spacing: -0.02em;
     color: #000000;
     margin-top: 0;
     margin-bottom: 8px;
@@ -136,7 +135,7 @@ defcon-wsa-card-title {
 /* --- Card Description --- */
 defcon-wsa-card-description {
     display: block;
-    font-size: 15px;
+    font-size: 16px;
     color: #4B5563;
     line-height: 1.6;
 }
