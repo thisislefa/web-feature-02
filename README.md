@@ -1,4 +1,4 @@
-# Neuroverse - What Sets Us Apart Section
+# Cove - What Sets Us Apart Section
 
 A modern, responsive user interface component designed to effectively present a company's core services or value propositions. The layout features a two-column design that separates a compelling headline and description from a grid of feature cards, enhanced with subtle scroll-triggered animations.
 
@@ -24,7 +24,7 @@ A modern, responsive user interface component designed to effectively present a 
 
 1.  Clone the repository:
     ```bash
-    git clone https://github.com/thisislefa/web-feature-02.git
+    git clone https://github.com/thisislefa/Cove.git
     ```
 2.  Navigate to the project directory and open `index.html` in your web browser.
 
@@ -37,6 +37,7 @@ Customize the content, colors, and SVG icons by editing the HTML and CSS directl
 ## License
 
 This project is licensed under the MIT License.
+
 
 
 
